@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://melianth.github.io/sitemap.melianth.gz
+Sitemap: https://melianth.github.io/app/sitemap.melianth.gz
+Sitemap: https://melianth.github.io/assets/sitemap.melianth.gz
+Sitemap: https://melianth.github.io/css/sitemap.melianth.gz
+Sitemap: https://melianth.github.io/data/sitemap.melianth.gz
+Sitemap: https://melianth.github.io/includes/sitemap.melianth.gz
+Sitemap: https://melianth.github.io/item/sitemap.melianth.gz
+Sitemap: https://melianth.github.io/src/sitemap.melianth.gz
